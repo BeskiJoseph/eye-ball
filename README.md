@@ -1,6 +1,6 @@
 # Eye_Ball_Moving
 
-Link: https://gowthammca23.github.io/Eye_Ball_Moving/
+Link: https://beskijoseph.github.io/eye-ball/
 
 EYE-BALL MOVING
 
